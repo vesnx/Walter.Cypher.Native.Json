@@ -19,6 +19,7 @@ To use this package, first install it via NuGet
 
 Install-Package Walter.Cypher.Native.Json
 
+
 ```
 
 ## Use Case: Secure User Profile Serialization
@@ -122,6 +123,11 @@ if (cypheredJson.IsValidJson<UserProfile>(UserProfileDataConverter.Default.UserP
 ## A working copy for use in a console application
 
 The follwing is a working example of how you could use this in a console application
+the application would need the follwing 3 NuGet packages 
+- Microsoft.Extensions.DependencyInjection
+- Microsoft.Extensions.Logging.Console
+- Walter.Cypher.Native.Json" Version
+
 ```c# 
  //secure the json using a protected password
  using var service = new ServiceCollection()
@@ -184,3 +190,19 @@ The follwing is a working example of how you could use this in a console applica
  }
 
 ```
+
+Executing the code would generate UserProfile json similar to:
+```json
+{
+  "a": "OUj9ZN5lEiMT7XhJxNPBSltciqz/n3OQ6l/HXtRF0mo=",
+  "b": "5UdHMH\u002BlUuBs2O8vIwdh72i0NT7xPSWzR9LTyL6iqW8=",
+  "c": "R4mDF\u002Bv\u002ByKPmklBzX6mBvR/XlXAw0XS5QX7lKT4YH6MnZRTxvtEBb6jFoQeoC0LS",
+  "d": [
+    "3HBOsVj9gM7zI9dPyRWXqEjyChl3y0PY3wMV9bOHsKw=",
+    "nqBDETdVp6Oa1OqW87pShahygOij9DCbD\u002BMfuiS4Oeg=",
+    "ojUnkX\u002BaVOJ9gegz5DrtLQvmDxGu9g3BNnlHDRE/GaU="
+  ]
+}
+```
+Repetative serialization of the UserProfile will always generate differnt json text even if using the same values making it hard to reverse engineer. 
+
