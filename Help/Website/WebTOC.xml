@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="791c127d-0bfc-4207-a807-96067e8d65a0" Title="System.Text.Json Namespace" Url="html/N-System.Text.Json.htm">
+    <HelpTOCNode Id="1cc76bf2-4590-467d-aa7c-64fa7f6f192c" Title="GDPRCollectionOfStringConverter Class" Url="html/T-System.Text.Json.GDPRCollectionOfStringConverter.htm">
+      <HelpTOCNode Title="GDPRCollectionOfStringConverter Members" Url="html/AllMembers.T-System.Text.Json.GDPRCollectionOfStringConverter.htm" />
+      <HelpTOCNode Id="8c9e616d-a317-489b-b98e-347311ea49de" Title="GDPRCollectionOfStringConverter Methods" Url="html/Methods.T-System.Text.Json.GDPRCollectionOfStringConverter.htm">
+        <HelpTOCNode Id="360c7545-8c74-4206-a6fd-7d9377c49f7d" Title="Read Method " Url="html/Overload-System.Text.Json.GDPRCollectionOfStringConverter.Read.htm">
+          <HelpTOCNode Title="Read Method " Url="html/M-System.Text.Json.GDPRCollectionOfStringConverter.Read.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="07fa63d9-aa36-4d68-8fe5-dae1b8b35468" Title="Write Method " Url="html/Overload-System.Text.Json.GDPRCollectionOfStringConverter.Write.htm">
+          <HelpTOCNode Title="Write Method " Url="html/M-System.Text.Json.GDPRCollectionOfStringConverter.Write.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Title="GDPRCollectionOfStringConverter Properties" Url="html/Properties.T-System.Text.Json.GDPRCollectionOfStringConverter.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="48172af2-1cdd-403f-b317-377a3f4f80d7" Title="GDPRIPAddressListConverter Class" Url="html/T-System.Text.Json.GDPRIPAddressListConverter.htm">
+      <HelpTOCNode Title="GDPRIPAddressListConverter Members" Url="html/AllMembers.T-System.Text.Json.GDPRIPAddressListConverter.htm" />
+      <HelpTOCNode Id="ede0de60-cb94-46d0-aabb-e5fb07d09146" Title="GDPRIPAddressListConverter Methods" Url="html/Methods.T-System.Text.Json.GDPRIPAddressListConverter.htm">
+        <HelpTOCNode Id="fcae963b-b439-4f0b-9b35-2336e82ded66" Title="Read Method " Url="html/Overload-System.Text.Json.GDPRIPAddressListConverter.Read.htm">
+          <HelpTOCNode Title="Read Method " Url="html/M-System.Text.Json.GDPRIPAddressListConverter.Read.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="2a2fa8d1-bbba-407b-b09a-3653c60cd301" Title="Write Method " Url="html/Overload-System.Text.Json.GDPRIPAddressListConverter.Write.htm">
+          <HelpTOCNode Title="Write Method " Url="html/M-System.Text.Json.GDPRIPAddressListConverter.Write.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Title="GDPRIPAddressListConverter Properties" Url="html/Properties.T-System.Text.Json.GDPRIPAddressListConverter.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="ae64ae05-b3b2-4a5a-b53f-1a64c08d7f29" Title="GDPRObfuscatedDateTimeConverter Class" Url="html/T-System.Text.Json.GDPRObfuscatedDateTimeConverter.htm">
+      <HelpTOCNode Title="GDPRObfuscatedDateTimeConverter Members" Url="html/AllMembers.T-System.Text.Json.GDPRObfuscatedDateTimeConverter.htm" />
+      <HelpTOCNode Id="4e9ca9f3-9e44-47a9-99ec-611f5db5780f" Title="GDPRObfuscatedDateTimeConverter Methods" Url="html/Methods.T-System.Text.Json.GDPRObfuscatedDateTimeConverter.htm">
+        <HelpTOCNode Id="439cea38-5212-4438-bb6c-a8d4cb916e28" Title="Read Method " Url="html/Overload-System.Text.Json.GDPRObfuscatedDateTimeConverter.Read.htm">
+          <HelpTOCNode Title="Read Method " Url="html/M-System.Text.Json.GDPRObfuscatedDateTimeConverter.Read.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="600fcc7f-3edb-437e-80b1-55a5ba2f3902" Title="Write Method " Url="html/Overload-System.Text.Json.GDPRObfuscatedDateTimeConverter.Write.htm">
+          <HelpTOCNode Title="Write Method " Url="html/M-System.Text.Json.GDPRObfuscatedDateTimeConverter.Write.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Title="GDPRObfuscatedDateTimeConverter Properties" Url="html/Properties.T-System.Text.Json.GDPRObfuscatedDateTimeConverter.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="669cf5d0-1655-4d77-ac10-693e0c5aff4f" Title="GDPRObfuscatedIntConverter Class" Url="html/T-System.Text.Json.GDPRObfuscatedIntConverter.htm">
+      <HelpTOCNode Title="GDPRObfuscatedIntConverter Members" Url="html/AllMembers.T-System.Text.Json.GDPRObfuscatedIntConverter.htm" />
+      <HelpTOCNode Id="c2e47f2d-f4ed-4ce6-9310-f56d709ff15e" Title="GDPRObfuscatedIntConverter Methods" Url="html/Methods.T-System.Text.Json.GDPRObfuscatedIntConverter.htm">
+        <HelpTOCNode Id="a5d538bf-447f-4475-8cd5-48c3f92783aa" Title="Read Method " Url="html/Overload-System.Text.Json.GDPRObfuscatedIntConverter.Read.htm">
+          <HelpTOCNode Title="Read Method " Url="html/M-System.Text.Json.GDPRObfuscatedIntConverter.Read.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="243245f6-e439-4c6d-943d-e77e8e4f550d" Title="Write Method " Url="html/Overload-System.Text.Json.GDPRObfuscatedIntConverter.Write.htm">
+          <HelpTOCNode Title="Write Method " Url="html/M-System.Text.Json.GDPRObfuscatedIntConverter.Write.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Title="GDPRObfuscatedIntConverter Properties" Url="html/Properties.T-System.Text.Json.GDPRObfuscatedIntConverter.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="cb09e4ed-979d-4538-bf00-ae39fea702a7" Title="GDPRObfuscatedStringConverter Class" Url="html/T-System.Text.Json.GDPRObfuscatedStringConverter.htm">
+      <HelpTOCNode Title="GDPRObfuscatedStringConverter Members" Url="html/AllMembers.T-System.Text.Json.GDPRObfuscatedStringConverter.htm" />
+      <HelpTOCNode Id="4a94e60f-d471-4a09-bb59-ec448e19656a" Title="GDPRObfuscatedStringConverter Methods" Url="html/Methods.T-System.Text.Json.GDPRObfuscatedStringConverter.htm">
+        <HelpTOCNode Id="87bdc52c-1c76-4d74-a4bd-678e802070f8" Title="Read Method " Url="html/Overload-System.Text.Json.GDPRObfuscatedStringConverter.Read.htm">
+          <HelpTOCNode Title="Read Method " Url="html/M-System.Text.Json.GDPRObfuscatedStringConverter.Read.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="fdbafec7-01e7-44de-b30a-9872b7abc3a3" Title="Write Method " Url="html/Overload-System.Text.Json.GDPRObfuscatedStringConverter.Write.htm">
+          <HelpTOCNode Title="Write Method " Url="html/M-System.Text.Json.GDPRObfuscatedStringConverter.Write.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Title="GDPRObfuscatedStringConverter Properties" Url="html/Properties.T-System.Text.Json.GDPRObfuscatedStringConverter.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="ef7a93c8-3574-41c5-96a9-2dfea20e93f5" Title="System.Text.Json.Serialization Namespace" Url="html/N-System.Text.Json.Serialization.htm">
+    <HelpTOCNode Id="0d7dcd42-1e39-48c2-b060-e5d367233971" Title="BasicJsonConverter(TTarget, TImplementer) Class" Url="html/T-System.Text.Json.Serialization.BasicJsonConverter-2.htm">
+      <HelpTOCNode Title="BasicJsonConverter(TTarget, TImplementer) Members" Url="html/AllMembers.T-System.Text.Json.Serialization.BasicJsonConverter-2.htm" />
+      <HelpTOCNode Title="BasicJsonConverter(TTarget, TImplementer) Methods" Url="html/Methods.T-System.Text.Json.Serialization.BasicJsonConverter-2.htm" />
+      <HelpTOCNode Title="BasicJsonConverter(TTarget, TImplementer) Properties" Url="html/Properties.T-System.Text.Json.Serialization.BasicJsonConverter-2.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="d7348b12-1ca9-4f43-a067-fb0524b22ab8" Title="GDPRIPAddressConverter Class" Url="html/T-System.Text.Json.Serialization.GDPRIPAddressConverter.htm">
+      <HelpTOCNode Title="GDPRIPAddressConverter Members" Url="html/AllMembers.T-System.Text.Json.Serialization.GDPRIPAddressConverter.htm" />
+      <HelpTOCNode Id="72bdbb80-f1f7-4a63-825d-7e6f58f2ec50" Title="GDPRIPAddressConverter Methods" Url="html/Methods.T-System.Text.Json.Serialization.GDPRIPAddressConverter.htm">
+        <HelpTOCNode Id="13144c14-7a1a-4ec0-9efd-ef8b1449802b" Title="Read Method " Url="html/Overload-System.Text.Json.Serialization.GDPRIPAddressConverter.Read.htm">
+          <HelpTOCNode Title="Read Method " Url="html/M-System.Text.Json.Serialization.GDPRIPAddressConverter.Read.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="6d43efc7-d553-4740-b6eb-c8c5dde88fb4" Title="Write Method " Url="html/Overload-System.Text.Json.Serialization.GDPRIPAddressConverter.Write.htm">
+          <HelpTOCNode Title="Write Method " Url="html/M-System.Text.Json.Serialization.GDPRIPAddressConverter.Write.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Title="GDPRIPAddressConverter Properties" Url="html/Properties.T-System.Text.Json.Serialization.GDPRIPAddressConverter.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

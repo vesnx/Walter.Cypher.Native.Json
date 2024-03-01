@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+
+  <HelpKINode Title="BasicJsonConverter(Of TTarget, TImplementer) class" Url="html/AllMembers.T-System.Text.Json.Serialization.BasicJsonConverter-2.htm" />
+  <HelpKINode Title="BasicJsonConverter(Of TTarget, TImplementer) class" Url="html/T-System.Text.Json.Serialization.BasicJsonConverter-2.htm" />
+  <HelpKINode Title="BasicJsonConverter(Of TTarget, TImplementer) class">
+    <HelpKINode Title="about BasicJsonConverter(Of TTarget, TImplementer) class" Url="html/T-System.Text.Json.Serialization.BasicJsonConverter-2.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-System.Text.Json.Serialization.BasicJsonConverter-2.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-System.Text.Json.Serialization.BasicJsonConverter-2.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-System.Text.Json.Serialization.BasicJsonConverter-2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BasicJsonConverter&lt;TTarget, TImplementer&gt; class" Url="html/AllMembers.T-System.Text.Json.Serialization.BasicJsonConverter-2.htm" />
+  <HelpKINode Title="BasicJsonConverter&lt;TTarget, TImplementer&gt; class" Url="html/T-System.Text.Json.Serialization.BasicJsonConverter-2.htm" />
+  <HelpKINode Title="BasicJsonConverter&lt;TTarget, TImplementer&gt; class">
+    <HelpKINode Title="about BasicJsonConverter&lt;TTarget, TImplementer&gt; class" Url="html/T-System.Text.Json.Serialization.BasicJsonConverter-2.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-System.Text.Json.Serialization.BasicJsonConverter-2.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-System.Text.Json.Serialization.BasicJsonConverter-2.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-System.Text.Json.Serialization.BasicJsonConverter-2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GDPRCollectionOfStringConverter class" Url="html/AllMembers.T-System.Text.Json.GDPRCollectionOfStringConverter.htm" />
+  <HelpKINode Title="GDPRCollectionOfStringConverter class" Url="html/T-System.Text.Json.GDPRCollectionOfStringConverter.htm" />
+  <HelpKINode Title="GDPRCollectionOfStringConverter class">
+    <HelpKINode Title="about GDPRCollectionOfStringConverter class" Url="html/T-System.Text.Json.GDPRCollectionOfStringConverter.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-System.Text.Json.GDPRCollectionOfStringConverter.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-System.Text.Json.GDPRCollectionOfStringConverter.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-System.Text.Json.GDPRCollectionOfStringConverter.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GDPRCollectionOfStringConverter.Read method" Url="html/M-System.Text.Json.GDPRCollectionOfStringConverter.Read.htm" />
+  <HelpKINode Title="GDPRCollectionOfStringConverter.Read method" Url="html/Overload-System.Text.Json.GDPRCollectionOfStringConverter.Read.htm" />
+  <HelpKINode Title="GDPRCollectionOfStringConverter.Write method" Url="html/M-System.Text.Json.GDPRCollectionOfStringConverter.Write.htm" />
+  <HelpKINode Title="GDPRCollectionOfStringConverter.Write method" Url="html/Overload-System.Text.Json.GDPRCollectionOfStringConverter.Write.htm" />
+  <HelpKINode Title="GDPRIPAddressConverter class" Url="html/AllMembers.T-System.Text.Json.Serialization.GDPRIPAddressConverter.htm" />
+  <HelpKINode Title="GDPRIPAddressConverter class" Url="html/T-System.Text.Json.Serialization.GDPRIPAddressConverter.htm" />
+  <HelpKINode Title="GDPRIPAddressConverter class">
+    <HelpKINode Title="about GDPRIPAddressConverter class" Url="html/T-System.Text.Json.Serialization.GDPRIPAddressConverter.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-System.Text.Json.Serialization.GDPRIPAddressConverter.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-System.Text.Json.Serialization.GDPRIPAddressConverter.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-System.Text.Json.Serialization.GDPRIPAddressConverter.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GDPRIPAddressConverter.Read method" Url="html/M-System.Text.Json.Serialization.GDPRIPAddressConverter.Read.htm" />
+  <HelpKINode Title="GDPRIPAddressConverter.Read method" Url="html/Overload-System.Text.Json.Serialization.GDPRIPAddressConverter.Read.htm" />
+  <HelpKINode Title="GDPRIPAddressConverter.Write method" Url="html/M-System.Text.Json.Serialization.GDPRIPAddressConverter.Write.htm" />
+  <HelpKINode Title="GDPRIPAddressConverter.Write method" Url="html/Overload-System.Text.Json.Serialization.GDPRIPAddressConverter.Write.htm" />
+  <HelpKINode Title="GDPRIPAddressListConverter class" Url="html/AllMembers.T-System.Text.Json.GDPRIPAddressListConverter.htm" />
+  <HelpKINode Title="GDPRIPAddressListConverter class" Url="html/T-System.Text.Json.GDPRIPAddressListConverter.htm" />
+  <HelpKINode Title="GDPRIPAddressListConverter class">
+    <HelpKINode Title="about GDPRIPAddressListConverter class" Url="html/T-System.Text.Json.GDPRIPAddressListConverter.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-System.Text.Json.GDPRIPAddressListConverter.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-System.Text.Json.GDPRIPAddressListConverter.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-System.Text.Json.GDPRIPAddressListConverter.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GDPRIPAddressListConverter.Read method" Url="html/M-System.Text.Json.GDPRIPAddressListConverter.Read.htm" />
+  <HelpKINode Title="GDPRIPAddressListConverter.Read method" Url="html/Overload-System.Text.Json.GDPRIPAddressListConverter.Read.htm" />
+  <HelpKINode Title="GDPRIPAddressListConverter.Write method" Url="html/M-System.Text.Json.GDPRIPAddressListConverter.Write.htm" />
+  <HelpKINode Title="GDPRIPAddressListConverter.Write method" Url="html/Overload-System.Text.Json.GDPRIPAddressListConverter.Write.htm" />
+  <HelpKINode Title="GDPRObfuscatedDateTimeConverter class" Url="html/AllMembers.T-System.Text.Json.GDPRObfuscatedDateTimeConverter.htm" />
+  <HelpKINode Title="GDPRObfuscatedDateTimeConverter class" Url="html/T-System.Text.Json.GDPRObfuscatedDateTimeConverter.htm" />
+  <HelpKINode Title="GDPRObfuscatedDateTimeConverter class">
+    <HelpKINode Title="about GDPRObfuscatedDateTimeConverter class" Url="html/T-System.Text.Json.GDPRObfuscatedDateTimeConverter.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-System.Text.Json.GDPRObfuscatedDateTimeConverter.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-System.Text.Json.GDPRObfuscatedDateTimeConverter.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-System.Text.Json.GDPRObfuscatedDateTimeConverter.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GDPRObfuscatedDateTimeConverter.Read method" Url="html/M-System.Text.Json.GDPRObfuscatedDateTimeConverter.Read.htm" />
+  <HelpKINode Title="GDPRObfuscatedDateTimeConverter.Read method" Url="html/Overload-System.Text.Json.GDPRObfuscatedDateTimeConverter.Read.htm" />
+  <HelpKINode Title="GDPRObfuscatedDateTimeConverter.Write method" Url="html/M-System.Text.Json.GDPRObfuscatedDateTimeConverter.Write.htm" />
+  <HelpKINode Title="GDPRObfuscatedDateTimeConverter.Write method" Url="html/Overload-System.Text.Json.GDPRObfuscatedDateTimeConverter.Write.htm" />
+  <HelpKINode Title="GDPRObfuscatedIntConverter class" Url="html/AllMembers.T-System.Text.Json.GDPRObfuscatedIntConverter.htm" />
+  <HelpKINode Title="GDPRObfuscatedIntConverter class" Url="html/T-System.Text.Json.GDPRObfuscatedIntConverter.htm" />
+  <HelpKINode Title="GDPRObfuscatedIntConverter class">
+    <HelpKINode Title="about GDPRObfuscatedIntConverter class" Url="html/T-System.Text.Json.GDPRObfuscatedIntConverter.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-System.Text.Json.GDPRObfuscatedIntConverter.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-System.Text.Json.GDPRObfuscatedIntConverter.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-System.Text.Json.GDPRObfuscatedIntConverter.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GDPRObfuscatedIntConverter.Read method" Url="html/M-System.Text.Json.GDPRObfuscatedIntConverter.Read.htm" />
+  <HelpKINode Title="GDPRObfuscatedIntConverter.Read method" Url="html/Overload-System.Text.Json.GDPRObfuscatedIntConverter.Read.htm" />
+  <HelpKINode Title="GDPRObfuscatedIntConverter.Write method" Url="html/M-System.Text.Json.GDPRObfuscatedIntConverter.Write.htm" />
+  <HelpKINode Title="GDPRObfuscatedIntConverter.Write method" Url="html/Overload-System.Text.Json.GDPRObfuscatedIntConverter.Write.htm" />
+  <HelpKINode Title="GDPRObfuscatedStringConverter class" Url="html/AllMembers.T-System.Text.Json.GDPRObfuscatedStringConverter.htm" />
+  <HelpKINode Title="GDPRObfuscatedStringConverter class" Url="html/T-System.Text.Json.GDPRObfuscatedStringConverter.htm" />
+  <HelpKINode Title="GDPRObfuscatedStringConverter class">
+    <HelpKINode Title="about GDPRObfuscatedStringConverter class" Url="html/T-System.Text.Json.GDPRObfuscatedStringConverter.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-System.Text.Json.GDPRObfuscatedStringConverter.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-System.Text.Json.GDPRObfuscatedStringConverter.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-System.Text.Json.GDPRObfuscatedStringConverter.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GDPRObfuscatedStringConverter.Read method" Url="html/M-System.Text.Json.GDPRObfuscatedStringConverter.Read.htm" />
+  <HelpKINode Title="GDPRObfuscatedStringConverter.Read method" Url="html/Overload-System.Text.Json.GDPRObfuscatedStringConverter.Read.htm" />
+  <HelpKINode Title="GDPRObfuscatedStringConverter.Write method" Url="html/M-System.Text.Json.GDPRObfuscatedStringConverter.Write.htm" />
+  <HelpKINode Title="GDPRObfuscatedStringConverter.Write method" Url="html/Overload-System.Text.Json.GDPRObfuscatedStringConverter.Write.htm" />
+  <HelpKINode Title="Read method" Url="html/M-System.Text.Json.GDPRCollectionOfStringConverter.Read.htm" />
+  <HelpKINode Title="Read method" Url="html/M-System.Text.Json.GDPRIPAddressListConverter.Read.htm" />
+  <HelpKINode Title="Read method" Url="html/M-System.Text.Json.GDPRObfuscatedDateTimeConverter.Read.htm" />
+  <HelpKINode Title="Read method" Url="html/M-System.Text.Json.GDPRObfuscatedIntConverter.Read.htm" />
+  <HelpKINode Title="Read method" Url="html/M-System.Text.Json.GDPRObfuscatedStringConverter.Read.htm" />
+  <HelpKINode Title="Read method" Url="html/M-System.Text.Json.Serialization.GDPRIPAddressConverter.Read.htm" />
+  <HelpKINode Title="Read method" Url="html/Overload-System.Text.Json.GDPRCollectionOfStringConverter.Read.htm" />
+  <HelpKINode Title="Read method" Url="html/Overload-System.Text.Json.GDPRIPAddressListConverter.Read.htm" />
+  <HelpKINode Title="Read method" Url="html/Overload-System.Text.Json.GDPRObfuscatedDateTimeConverter.Read.htm" />
+  <HelpKINode Title="Read method" Url="html/Overload-System.Text.Json.GDPRObfuscatedIntConverter.Read.htm" />
+  <HelpKINode Title="Read method" Url="html/Overload-System.Text.Json.GDPRObfuscatedStringConverter.Read.htm" />
+  <HelpKINode Title="Read method" Url="html/Overload-System.Text.Json.Serialization.GDPRIPAddressConverter.Read.htm" />
+  <HelpKINode Title="System.Text.Json namespace" Url="html/N-System.Text.Json.htm" />
+  <HelpKINode Title="System.Text.Json.GDPRCollectionOfStringConverter class" Url="html/AllMembers.T-System.Text.Json.GDPRCollectionOfStringConverter.htm" />
+  <HelpKINode Title="System.Text.Json.GDPRCollectionOfStringConverter class" Url="html/T-System.Text.Json.GDPRCollectionOfStringConverter.htm" />
+  <HelpKINode Title="System.Text.Json.GDPRIPAddressListConverter class" Url="html/AllMembers.T-System.Text.Json.GDPRIPAddressListConverter.htm" />
+  <HelpKINode Title="System.Text.Json.GDPRIPAddressListConverter class" Url="html/T-System.Text.Json.GDPRIPAddressListConverter.htm" />
+  <HelpKINode Title="System.Text.Json.GDPRObfuscatedDateTimeConverter class" Url="html/AllMembers.T-System.Text.Json.GDPRObfuscatedDateTimeConverter.htm" />
+  <HelpKINode Title="System.Text.Json.GDPRObfuscatedDateTimeConverter class" Url="html/T-System.Text.Json.GDPRObfuscatedDateTimeConverter.htm" />
+  <HelpKINode Title="System.Text.Json.GDPRObfuscatedIntConverter class" Url="html/AllMembers.T-System.Text.Json.GDPRObfuscatedIntConverter.htm" />
+  <HelpKINode Title="System.Text.Json.GDPRObfuscatedIntConverter class" Url="html/T-System.Text.Json.GDPRObfuscatedIntConverter.htm" />
+  <HelpKINode Title="System.Text.Json.GDPRObfuscatedStringConverter class" Url="html/AllMembers.T-System.Text.Json.GDPRObfuscatedStringConverter.htm" />
+  <HelpKINode Title="System.Text.Json.GDPRObfuscatedStringConverter class" Url="html/T-System.Text.Json.GDPRObfuscatedStringConverter.htm" />
+  <HelpKINode Title="System.Text.Json.Serialization namespace" Url="html/N-System.Text.Json.Serialization.htm" />
+  <HelpKINode Title="System.Text.Json.Serialization.BasicJsonConverter(Of TTarget, TImplementer) class" Url="html/AllMembers.T-System.Text.Json.Serialization.BasicJsonConverter-2.htm" />
+  <HelpKINode Title="System.Text.Json.Serialization.BasicJsonConverter(Of TTarget, TImplementer) class" Url="html/T-System.Text.Json.Serialization.BasicJsonConverter-2.htm" />
+  <HelpKINode Title="System.Text.Json.Serialization.BasicJsonConverter&lt;TTarget, TImplementer&gt; class" Url="html/AllMembers.T-System.Text.Json.Serialization.BasicJsonConverter-2.htm" />
+  <HelpKINode Title="System.Text.Json.Serialization.BasicJsonConverter&lt;TTarget, TImplementer&gt; class" Url="html/T-System.Text.Json.Serialization.BasicJsonConverter-2.htm" />
+  <HelpKINode Title="System.Text.Json.Serialization.GDPRIPAddressConverter class" Url="html/AllMembers.T-System.Text.Json.Serialization.GDPRIPAddressConverter.htm" />
+  <HelpKINode Title="System.Text.Json.Serialization.GDPRIPAddressConverter class" Url="html/T-System.Text.Json.Serialization.GDPRIPAddressConverter.htm" />
+  <HelpKINode Title="Write method" Url="html/M-System.Text.Json.GDPRCollectionOfStringConverter.Write.htm" />
+  <HelpKINode Title="Write method" Url="html/M-System.Text.Json.GDPRIPAddressListConverter.Write.htm" />
+  <HelpKINode Title="Write method" Url="html/M-System.Text.Json.GDPRObfuscatedDateTimeConverter.Write.htm" />
+  <HelpKINode Title="Write method" Url="html/M-System.Text.Json.GDPRObfuscatedIntConverter.Write.htm" />
+  <HelpKINode Title="Write method" Url="html/M-System.Text.Json.GDPRObfuscatedStringConverter.Write.htm" />
+  <HelpKINode Title="Write method" Url="html/M-System.Text.Json.Serialization.GDPRIPAddressConverter.Write.htm" />
+  <HelpKINode Title="Write method" Url="html/Overload-System.Text.Json.GDPRCollectionOfStringConverter.Write.htm" />
+  <HelpKINode Title="Write method" Url="html/Overload-System.Text.Json.GDPRIPAddressListConverter.Write.htm" />
+  <HelpKINode Title="Write method" Url="html/Overload-System.Text.Json.GDPRObfuscatedDateTimeConverter.Write.htm" />
+  <HelpKINode Title="Write method" Url="html/Overload-System.Text.Json.GDPRObfuscatedIntConverter.Write.htm" />
+  <HelpKINode Title="Write method" Url="html/Overload-System.Text.Json.GDPRObfuscatedStringConverter.Write.htm" />
+  <HelpKINode Title="Write method" Url="html/Overload-System.Text.Json.Serialization.GDPRIPAddressConverter.Write.htm" />
+</HelpKI>
