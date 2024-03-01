@@ -1,4 +1,20 @@
-﻿using Microsoft.Extensions.DependencyInjection;
+﻿// ***********************************************************************
+// Assembly         : SecureJson
+// Author           : Walter Verhoeven
+// Created          : Thu 22-Feb-2024
+//
+// Last Modified By : Walter Verhoeven
+// Last Modified On : Sun 25-Feb-2024
+// ***********************************************************************
+// <copyright file="Program.cs" company="SecureJson">
+//     Copyright (c) VESNX SA. All rights reserved.
+// </copyright>
+// <summary>
+// sample show how to use native aot compatible obfuscation from and to json
+// compatible targets like api endpoints and disk files
+// </summary>
+// ***********************************************************************
+using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 
 using System.Net;

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "pL26rM65dkF7zWSaaFnK5JrUZ5s8nQEsxsb6Fcfykd8EHTlIx15vZib/VHB2xYXCew8j6Jyf/BtL/ewoFtSDng==",
+  "dgSpecHash": "ADdqY43rF8dYG1zApewbm6IOFmxaVRIVWl1o/TY4DH949S65y1PdRCr6ffn5Urytg/AmPxyUi8wdRU3Ei8dtkQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\wave\\source\\repos\\Walter.Cypher.Native.Json\\samples\\Demo\\SecureJson\\SecureJson.csproj",
   "expectedPackageFiles": [
@@ -89,8 +89,8 @@
     "C:\\Users\\wave\\.nuget\\packages\\system.threading\\4.3.0\\system.threading.4.3.0.nupkg.sha512",
     "C:\\Users\\wave\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512",
     "C:\\Users\\wave\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
-    "C:\\Users\\wave\\.nuget\\packages\\walter\\2024.2.25.1737\\walter.2024.2.25.1737.nupkg.sha512",
-    "C:\\Users\\wave\\.nuget\\packages\\walter.cypher.native.json\\2024.2.25.1737\\walter.cypher.native.json.2024.2.25.1737.nupkg.sha512",
+    "C:\\Users\\wave\\.nuget\\packages\\walter\\2024.3.1.1143\\walter.2024.3.1.1143.nupkg.sha512",
+    "C:\\Users\\wave\\.nuget\\packages\\walter.cypher.native.json\\2024.3.1.1143\\walter.cypher.native.json.2024.3.1.1143.nupkg.sha512",
     "C:\\Users\\wave\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.2\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.2.nupkg.sha512"
   ],
   "logs": []

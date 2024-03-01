@@ -14,9 +14,9 @@
     <SourceRoot Include="C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\" />
   </ItemGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <Content Include="$(NuGetPackageRoot)walter.cypher.native.json\2024.2.25.1737\contentFiles\any\net8.0\certificate_add.ico" Condition="Exists('$(NuGetPackageRoot)walter.cypher.native.json\2024.2.25.1737\contentFiles\any\net8.0\certificate_add.ico')">
+    <Content Include="$(NuGetPackageRoot)walter.cypher.native.json\2024.3.1.1143\contentFiles\any\net8.0\certificate_add.ico" Condition="Exists('$(NuGetPackageRoot)walter.cypher.native.json\2024.3.1.1143\contentFiles\any\net8.0\certificate_add.ico')">
       <NuGetPackageId>Walter.Cypher.Native.Json</NuGetPackageId>
-      <NuGetPackageVersion>2024.2.25.1737</NuGetPackageVersion>
+      <NuGetPackageVersion>2024.3.1.1143</NuGetPackageVersion>
       <NuGetItemType>Content</NuGetItemType>
       <Pack>false</Pack>
       <Private>False</Private>
@@ -30,8 +30,8 @@
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <PkgMicrosoft_CodeAnalysis_Analyzers Condition=" '$(PkgMicrosoft_CodeAnalysis_Analyzers)' == '' ">C:\Users\wave\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.4</PkgMicrosoft_CodeAnalysis_Analyzers>
-    <PkgWalter Condition=" '$(PkgWalter)' == '' ">C:\Users\wave\.nuget\packages\walter\2024.2.25.1737</PkgWalter>
-    <PkgWalter_Cypher_Native_Json Condition=" '$(PkgWalter_Cypher_Native_Json)' == '' ">C:\Users\wave\.nuget\packages\walter.cypher.native.json\2024.2.25.1737</PkgWalter_Cypher_Native_Json>
+    <PkgWalter Condition=" '$(PkgWalter)' == '' ">C:\Users\wave\.nuget\packages\walter\2024.3.1.1143</PkgWalter>
+    <PkgWalter_Cypher_Native_Json Condition=" '$(PkgWalter_Cypher_Native_Json)' == '' ">C:\Users\wave\.nuget\packages\walter.cypher.native.json\2024.3.1.1143</PkgWalter_Cypher_Native_Json>
     <PkgMicrosoft_NET_ILLink_Tasks Condition=" '$(PkgMicrosoft_NET_ILLink_Tasks)' == '' ">C:\Users\wave\.nuget\packages\microsoft.net.illink.tasks\8.0.2</PkgMicrosoft_NET_ILLink_Tasks>
     <PkgMicrosoft_DotNet_ILCompiler Condition=" '$(PkgMicrosoft_DotNet_ILCompiler)' == '' ">C:\Users\wave\.nuget\packages\microsoft.dotnet.ilcompiler\8.0.2</PkgMicrosoft_DotNet_ILCompiler>
   </PropertyGroup>

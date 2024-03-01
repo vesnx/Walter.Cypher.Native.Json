@@ -1595,7 +1595,7 @@
           }
         }
       },
-      "Walter/2024.2.25.1737": {
+      "Walter/2024.3.1.1143": {
         "type": "package",
         "dependencies": {
           "Microsoft.CodeAnalysis.CSharp.Workspaces": "4.8.0",
@@ -1616,10 +1616,10 @@
           }
         }
       },
-      "Walter.Cypher.Native.Json/2024.2.25.1737": {
+      "Walter.Cypher.Native.Json/2024.3.1.1143": {
         "type": "package",
         "dependencies": {
-          "Walter": "2024.2.25.1737"
+          "Walter": "2024.3.1.1143"
         },
         "compile": {
           "lib/net8.0/Walter.Cypher.Native.Json.dll": {
@@ -5620,10 +5620,10 @@
         "system.threading.tasks.nuspec"
       ]
     },
-    "Walter/2024.2.25.1737": {
-      "sha512": "MKvfnyKEswGpIWnX+DO9ky4T3saW0W+uq+oAsl3NBNZP+C62PKhL8xynQuHP3QwiWlkiMM8Na2kTq0wHSzB8fA==",
+    "Walter/2024.3.1.1143": {
+      "sha512": "BF4i4tXcUQNF1mImQGuosmQdbPyw/uoecB7PEt0PUFKo8z6vEpl5vWYAsTvICPT+0RmHToFNHzqvd79I+lzWKA==",
       "type": "package",
-      "path": "walter/2024.2.25.1737",
+      "path": "walter/2024.3.1.1143",
       "hasTools": true,
       "files": [
         ".nupkg.metadata",
@@ -5644,14 +5644,14 @@
         "lib/netstandard2.1/Walter.dll",
         "lib/netstandard2.1/Walter.xml",
         "tools/uninstall.ps1",
-        "walter.2024.2.25.1737.nupkg.sha512",
+        "walter.2024.3.1.1143.nupkg.sha512",
         "walter.nuspec"
       ]
     },
-    "Walter.Cypher.Native.Json/2024.2.25.1737": {
-      "sha512": "8MDy9WoBy26wyjTUMQexOExe3IhIaLBbJTdTbyQRVqqmJGmPBHdnmbLoQ0KZ3B8+QUPbS+5JHRpRmdC1ItfDvA==",
+    "Walter.Cypher.Native.Json/2024.3.1.1143": {
+      "sha512": "f1EuHvSEdFaItc+uSiXbpd5jWZAUem7aJBnCTktq6IjbCypC+5BU5FfQVyEwO2/fGkbdQ/Bvdq1E3k+O0P8A9Q==",
       "type": "package",
-      "path": "walter.cypher.native.json/2024.2.25.1737",
+      "path": "walter.cypher.native.json/2024.3.1.1143",
       "hasTools": true,
       "files": [
         ".nupkg.metadata",
@@ -5665,7 +5665,7 @@
         "lib/net8.0/Walter.Cypher.Native.Json.xml",
         "tools/init.ps1",
         "tools/uninstall.ps1",
-        "walter.cypher.native.json.2024.2.25.1737.nupkg.sha512",
+        "walter.cypher.native.json.2024.3.1.1143.nupkg.sha512",
         "walter.cypher.native.json.nuspec"
       ]
     }
@@ -5676,7 +5676,7 @@
       "Microsoft.Extensions.DependencyInjection >= 8.0.0",
       "Microsoft.Extensions.Logging.Console >= 8.0.0",
       "Microsoft.NET.ILLink.Tasks >= 8.0.2",
-      "Walter.Cypher.Native.Json >= 2024.2.25.1737"
+      "Walter.Cypher.Native.Json >= 2024.3.1.1143"
     ]
   },
   "packageFolders": {
@@ -5752,7 +5752,7 @@
           },
           "Walter.Cypher.Native.Json": {
             "target": "Package",
-            "version": "[2024.2.25.1737, )"
+            "version": "[2024.3.1.1143, )"
           }
         },
         "imports": [

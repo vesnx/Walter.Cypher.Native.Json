@@ -1,4 +1,19 @@
-﻿using System.Net;
+﻿// ***********************************************************************
+// Assembly         : SecureJson
+// Author           : Walter Verhoeven
+// Created          : Thu 22-Feb-2024
+//
+// Last Modified By : Walter Verhoeven
+// Last Modified On : Thu 22-Feb-2024
+// ***********************************************************************
+// <copyright file="UserProfile.cs" company="SecureJson">
+//     Copyright (c) VESNX SA. All rights reserved.
+// </copyright>
+// <summary>
+// Native AOT compatible json obfuscation.
+// </summary>
+// ***********************************************************************
+using System.Net;
 using System.Text.Json;
 using System.Text.Json.Serialization;
 

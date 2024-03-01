@@ -8,12 +8,18 @@
 		<PublishAot>true</PublishAot>
 		<InvariantGlobalization>true</InvariantGlobalization>
 		<PublishAot>true</PublishAot>
+		<Authors>Walter Verhoeven</Authors>
+		<Company>VESNX SA</Company>
+		<Description>Test application showcasing features</Description>
+		<Copyright>2024 Walter Verhoeven, all rights reserved</Copyright>
+		<PackageProjectUrl>https://github.com/vesnx/Walter.Cypher.Native.Json</PackageProjectUrl>
+		<Title>Test application AoT showcasing features</Title>
 	</PropertyGroup>
 
 	<ItemGroup>
 		<PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="8.0.0" />
 		<PackageReference Include="Microsoft.Extensions.Logging.Console" Version="8.0.0" />
-		<PackageReference Include="Walter.Cypher.Native.Json" Version="2024.2.25.1737" />
+		<PackageReference Include="Walter.Cypher.Native.Json" Version="2024.3.1.1143" />
 	</ItemGroup>
 
 </Project>
