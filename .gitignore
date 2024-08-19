@@ -1,3 +1,107 @@
-.vs
+# Ignore Visual Studio temporary files, build results, and
+# folders that should not be included in the repository.
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore Visual Studio specific folders
+.vs/
+.vscode/
+.vscode/*
+
+# Ignore specific user files
 samples/Demo/SecureJson/SecureJson.csproj.user
 samples/Demo/SecureJson/Properties/PublishProfiles/FolderProfile.pubxml.user
+
+# Mono auto generated files
+mono_crash.*
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]rm/
+[Aa]rm64/
+[Bb]uild/
+[Bb]in/
+[Oo]bj/
+
+# C# related files
+*.dll
+*.exe
+*.app
+*.lib
+*.so
+*.pdb
+*.mdb
+*.config
+*.config.old
+*.log
+*.vspscc
+*.vssscc
+.vscode/
+
+# Visual Studio Code Snippets
+*.code-snippets
+
+# Visual Studio Code Coverage Results
+*.coverage
+*.coveragexml
+
+# Visual Studio Code Coverage Results
+TestResults/
+
+# Web publish folder
+publish/
+wwwroot/
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+.nuget/
+
+# Rider project files
+.idea/
+*.sln.iml
+
+# Mac build results
+build/
+
+# Uncomment if you have the entire SDK folder checked in
+#[Tt]ools/
+
+# Legacy
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# StyleCop
+StyleCopReport.xml
+
+# TeamCity
+.teamcity/
+.tcprev
+
+# DotNet Framework
+*.psess
+*.vspx
+*.vsp
+*.vspx
+.vspscc
+
+# Node.js files
+node_modules/
+npm-debug.log
+
+# Yarn files
+.yarn/
+.yarnrc
+yarn.lock
+
+# Bower
+bower_components/
